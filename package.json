@@ -9,7 +9,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "sweetalert2": "git://github.com/Mirzapulatov/sweetalert2.git#master"
+    "sweetalert2": "git://github.com/Mirzapulatov/sweetalert2.git#main"
   },
   "peerDependencies": {
     "vue": "2.x"
